@@ -1,5 +1,9 @@
 # Buscante
 
+
+<img src='https://github.com/AnaKercia1/Buscante/assets/123599474/54bf2255-2347-46bf-b663-0a3a06cd2e04#vitrinedev'>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
 ## Development server
